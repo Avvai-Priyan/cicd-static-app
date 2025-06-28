@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Nothing to stop. Skipping ApplicationStop phase."
+echo "No server to stop. Skipping."
 exit 0
